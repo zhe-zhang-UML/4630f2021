@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HappyBirthday</string>
+    <string name="my_name">Zhe Zhang</string>
+    <string name="happy_birthday">Happy\n\t\t\t\t\t\t\t\tBirthday!</string>
+</resources>

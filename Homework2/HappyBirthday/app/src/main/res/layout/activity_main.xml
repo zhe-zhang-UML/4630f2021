@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/birthday_card"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffeb3b"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/happy_birthday"
+        android:textStyle="italic"
+        android:textSize="36sp"
+        android:textColor="#f06292"
+        android:background="@drawable/background1"
+        android:layout_margin="8dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_weight="4"
+        android:scaleType="centerCrop"
+        android:src="@drawable/zhezhang" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/my_name"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="#6d4c41"
+        android:layout_gravity="center"
+        android:padding="8dp"
+        />
+
+</LinearLayout>
