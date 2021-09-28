@@ -1,0 +1,44 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Person ID           Problem                    App Found                      Likes                           Don't like                             Improves     
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Lisa        Existing music software           Spotify,          The music library is very full,      The software can only listen       Keep the rich music library and add 
+              can only listen to songs,       Youtube Music,      very full, and you can listen        to songs, and you cannot sing,     the singing function. User can
+              and cannot directly choose       Apple Music        and you can listen all kinds of      and you cannot sing, and there     choose their favorite songs to sing
+              their favorite songs to                             songs.                               are more advertisements.           and share them on social media.
+              sing, if you want to sing 
+              must open another software.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Johnson     Existing payment software         Apple Pay,        Most bank cards support the          Function is limited, and it        Develop a payment software that can  
+              can be used with limited          Samsung Pay       software, which is convenient        cannot support all payment         bind most bank cards, and support
+              function and limited areas.                         where you can use this payment       methods.                           online and offline payment so that
+                                                                  method.                                                                 the payment is more convenient and 
+                                                                                                                                          faster. At the same time, it supports
+                                                                                                                                          the international payment, and user
+                                                                                                                                          can check the exchange rate
+                                                                                                                                          between international currencies.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Kevin       Existing accounting software        Wallet          User can create their own date       Manual input is cumbersome,        User can bind their bank cards,  
+              can only be entered manually,                       and activity, enter the day’s        and there is no special            and the app can automatically
+              and there will be omissions                         consumption record to calculate      in-app calculator.                 and calculate the total expenditure
+              and calculation errors.                             the total cost.                                                         according to the consumption records
+                                                                                                                                          of bank cards. Meanwhile, user can 
+                                                                                                                                          also manually insert other 
+                                                                                                                                          consumption records and provide an 
+                                                                                                                                          in-app calculator to calculate the  
+                                                                                                                                          total expenditure more quickly.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Alex        There is no mobile app,             None            None.                                It can only find out about         Create a mobile app with different 
+              only the web version is                                                                  symptoms and reasons, and          categories of symptoms that user can 
+              available.                                                                               the specific symptoms need         check and find out the right drugs.
+                                                                                                       to go to hospital.                 A human doctor is built into the app
+                                                                                                                                          and user can ask for any help.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  Paul        The existing ticketing            Tripadvisor       User can book flight, hotels         The resources are not complete     Develop a software, which can   
+              software resources are                              and so on.                           enough, the and the ordering       integrate all resources, including
+              scattered, so different                                                                  interface is complex, it is        hotels, train tickets, takeout,
+              software needs to be                                                                     not easy to use.                   tourists’ tickets, flight tickets,
+              opened if different                                                                                                         bus tickets, movie tickets.
+              tickets need to be                                                                                                          Simple design of the interface 
+              purchased.                                                                                                                  so that user can more easily and
+                                                                                                                                          quickly use. 
+           
