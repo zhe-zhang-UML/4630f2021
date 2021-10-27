@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/birthday_card"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/investPort"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:layout_weight="1"
+        android:text="    An Investment Portfolio"
+        android:textSize="32sp"
+        android:layout_margin="10dp"
+        android:layout_gravity="center"/>
+
+    <ImageView
+        android:id="@+id/investimage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_weight="1"
+        android:scaleType="fitCenter"
+        android:src="@drawable/investment" />
+
+
+    <Button
+        android:id="@+id/MyInvestButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:text="Mine"
+        android:layout_weight="1"/>.
+
+    <Button android:id="@+id/FamilyInvestButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:text="My Family"
+        android:layout_weight="1"/>
+
+    <Button android:id="@+id/SisterInvestButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:text="My Sister"
+        android:layout_weight="1"/>
+
+</LinearLayout>

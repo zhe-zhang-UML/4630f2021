@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <TextView
+        android:id="@+id/birthwhere"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="My place of birth: Hohhot, China"
+        android:textSize="36sp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/livewhere"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/birthwhere"
+        android:layout_weight="1"
+        android:text="Where I live now: Lowell, USA"
+        android:textSize="36sp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/likelive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/livewhere"
+        android:text="Where I’d like to live: Soul, South Korea"
+        android:textSize="36sp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/motherborn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/likelive"
+        android:text="Where my mother born: Baoding, China"
+        android:textSize="36sp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/hobby"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/motherborn"
+        android:text="My hobby: Basketball"
+        android:textSize="36sp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"/>
+
+</RelativeLayout>

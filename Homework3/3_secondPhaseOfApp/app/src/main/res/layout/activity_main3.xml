@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <TextView
+        android:id="@+id/where"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="I am now:      Lowell, USA"
+        android:textSize="36sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/from"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/where"
+        android:layout_weight="1"
+        android:text="I am from:    Hohhot, China"
+        android:textSize="36sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/like"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/from"
+        android:text="I’d like to be: Internet Engineer"
+        android:textSize="36sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/family"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/like"
+        android:text="My family is from: Hohhot, China"
+        android:textSize="36sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/season"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/family"
+        android:text="Season likes:Winter"
+        android:textSize="36sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+</RelativeLayout>

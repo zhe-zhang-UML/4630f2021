@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <TextView
+        android:id="@+id/MyInvestFact1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="1.Save to bank account--20%"
+        android:textSize="33sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/MyInvestFact2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/MyInvestFact1"
+        android:layout_weight="1"
+        android:text="2.Pay the tuition fee and rent--60%"
+        android:textSize="33sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/MyInvestFact3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/MyInvestFact2"
+        android:layout_weight="1"
+        android:text="3.Buy groceries and clothes--10%"
+        android:textSize="33sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center" />
+
+
+    <TextView
+        android:id="@+id/MyInvestFact4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/MyInvestFact3"
+        android:text="4.Invest stocks, bonds--5%"
+        android:textSize="33sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/MyInvestFact5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/MyInvestFact4"
+        android:text="5.Hobbies and interests--5%"
+        android:textSize="33sp"
+        android:layout_margin="30dp"
+        android:layout_gravity="center"/>
+
+</RelativeLayout>

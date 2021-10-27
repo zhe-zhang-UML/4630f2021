@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <TextView
+        android:id="@+id/SisterInvestFact1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="1.Save to bank account--20%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/SisterInvestFact2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/SisterInvestFact1"
+        android:layout_weight="1"
+        android:text="2.Pay the tuition fee and rent--45%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/SisterInvestFact3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/SisterInvestFact2"
+        android:layout_weight="1"
+        android:text="3.Buy groceries--10%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center" />
+
+
+    <TextView
+        android:id="@+id/SisterInvestFact4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/SisterInvestFact3"
+        android:text="4.Buy cosmetics and clothes--10%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/SisterInvestFact5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/SisterInvestFact4"
+        android:text="5.Pay for friends’ parties--5%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/SisterInvestFact6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/SisterInvestFact5"
+        android:text="6.Pay for transportation--5%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/SisterInvestFact7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/SisterInvestFact6"
+        android:text="7.Pay for travel--5%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+</RelativeLayout>

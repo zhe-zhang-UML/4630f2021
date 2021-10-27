@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+    <TextView
+        android:id="@+id/FamilyInvestFact1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="1.Save to bank account--60%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/FamilyInvestFact2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/FamilyInvestFact1"
+        android:layout_weight="1"
+        android:text="2.Pay electricity and gas--5%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/FamilyInvestFact3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/FamilyInvestFact2"
+        android:layout_weight="1"
+        android:text="3.Buy groceries and clothes--10%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center" />
+
+
+    <TextView
+        android:id="@+id/FamilyInvestFact4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/FamilyInvestFact3"
+        android:text="4.Pay for transportation--10%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/FamilyInvestFact5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/FamilyInvestFact4"
+        android:text="5.Invest stocks, bonds--5%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:id="@+id/FamilyInvestFact6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/FamilyInvestFact5"
+        android:text="6.Invest real estate--5%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+
+
+    <TextView
+        android:id="@+id/FamilyInvestFact7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:layout_below="@id/FamilyInvestFact6"
+        android:text="7.Pay for friends’ party--5%"
+        android:textSize="30sp"
+        android:layout_margin="18dp"
+        android:layout_gravity="center"/>
+</RelativeLayout>

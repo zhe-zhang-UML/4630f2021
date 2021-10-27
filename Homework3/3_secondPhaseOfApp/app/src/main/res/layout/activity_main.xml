@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/birthday_card"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="8dp"
+        android:layout_weight="1"
+        android:text="Welcome to Zhe Zhang's"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_margin="0dp"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="8dp"
+        android:layout_weight="1"
+        android:text="Homepage!"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:layout_margin="0dp"
+        android:layout_gravity="center"/>
+
+
+    <Button
+        android:id="@+id/HappyButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:text="Happy Birthday"
+        android:layout_weight="1"/>.
+
+    <Button android:id="@+id/WeatherWhereButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:text="The weather around me"
+        android:layout_weight="1"/>
+
+    <Button android:id="@+id/FactButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:text="Facts about me"
+        android:layout_weight="1"/>
+
+    <Button android:id="@+id/PortfolioButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:text="An investment portfolio"
+        android:layout_weight="1"/>
+
+    <Button android:id="@+id/ResumeButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:text="My resume"
+        android:layout_weight="1"/>
+
+    <Button android:id="@+id/OtherButton"
+        android:layout_width="270dp"
+        android:layout_height="60sp"
+        android:textSize="20sp"
+        android:layout_gravity="center"
+        android:text="Other Fact about me"
+        android:layout_weight="1"/>
+
+</LinearLayout>
