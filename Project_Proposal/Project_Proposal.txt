@@ -1,0 +1,45 @@
+Project Proposal Submission Form
+
+1. Project title:
+   Gomoku (five in a row)
+
+2. What is the problem you aim to tackle with your project? 
+   The main purpose of our project is to provide people with more ways to entertain themselves and to enhance
+   the friendship and communication between people.
+
+3. Why is this problem important to tackle? 
+   In the busy work and study life at ordinary times, appropriate games can bring people happiness and relaxation.
+   Because our project is a two-player game, the friendship between friends has been greatly enhanced in the 
+   communication process of the game.
+
+4. Who stands to benefit from this app most? (I.e., who is your expected "market") 
+   Because our project is a simple puzzle game, it's easy to learn, so it benefits everyone.
+
+
+5. List other apps that have addressed the same problem (please number them for the next question)
+   Such as: Chess, card games
+
+6. For each app you listed above, list in what ways it is lacking (please number them correspondingly)
+    For the chess: high difficulty for the first time player
+    For the card games: there are many rules to remember before playing
+
+
+7. For each shortcoming you have identified above, state whether you intend to address it, and (briefly) how
+   In our app, we let users play a simple game. There are no complicated rules and it's easy for beginners to get started.
+
+
+8. Your "elevator pitch" (should take no more than ~60 seconds to tell) 
+   The app that we are building is that to let users play the Gomoku game and make them relax. Although there are some similar
+   apps, such as chess game, puzzle game, the Gomoku game is much easier to learn and play. In our app, we set up the basic 
+   chess board and two colors of pawns, black and white. Since this app is a two-player battle app, user can play this Gomoku 
+   game with their friends. In the process of playing the game with friends, this is also a good wat to enhance their friendship.
+   Also, another purpose that we want to build this Gomoku game is that the Gomoku game originated from China, we want to introduce
+   the Chinese culture to everyone and let more and more people enjoy the Gomuku game. 
+
+9. List any technologies you are considering for your project; compare them to alternative options, and state 
+   which one(s) you find more promising and why
+   We consider providing man-machine battle, which requires an algorithm to achieve. And add the Internet battle to achieve
+   the situation of playing the game without face to face, which requires an algorithm and Android Studio Internet permission,
+   and other permissions.
+   Our group are decide to do the one semester project, so that we may only focus on creating the man-machine battle. Because 
+   this can also better apply some knowledge of the algorithm. 
