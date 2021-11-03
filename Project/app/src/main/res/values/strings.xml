@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="play_btn_text">Play</string>
+    <string name="rule_btn_text">Rules</string>
+    <string name="setting_btn_text">Setting</string>
+    <string name="about_btn_text">About</string>
+    <string name="setting_sound">Sound</string>
+
+</resources>
