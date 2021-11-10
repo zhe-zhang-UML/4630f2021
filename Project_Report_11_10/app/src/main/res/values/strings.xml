@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Project</string>
+    <!--This is activity_main.xml-->
+    <string name="project_title">GOMOKU</string>
+    <string name="play_btn_text">Play</string>
+    <string name="rule_btn_text">Rules</string>
+    <string name="setting_btn_text">Setting</string>
+    <string name="about_btn_text">About</string>
+    <string name="setting_sound">Sound</string>
+    <!--This is activity_rules.xml-->
+    <string name="rules_gomoku">Game Rules:</string>
+    <string name="rules_gomoku_content1">1. Both sides use black and white pawns respectively, and
+        play at the intersection of the straight and horizontal lines of the chessboard.</string>
+    <string name="rules_gomoku_content2">2. The five sub-connections can be horizontal, vertical and
+        diagonal.</string>
+    <string name="rules_gomoku_content3">3. The first to form a five-point line wins.</string>
+    <!--This is activity_about.xml-->
+    <string name="about_gomoku">Info About This App:</string>
+    <string name="about_gomoku_content1">This is our project app about gomoku game.</string>
+    <string name="about_gomoku_content2">Group Member: Wenhui Liu, Zhe Zhang</string>
+    <string name="history_gomoku">History:</string>
+    <string name="history_gomoku_content1">The game of Gomoku(Five in a Row) originated in China.
+        Around five thousand years ago, Xuanyuan Huangdi, the ancestor of the Chinese nation,
+        unintentionally drew 17 horizontal lines and 17 vertical lines, and this unintentional
+        invention created the Gomoku.</string>
+    <string name="history_gomoku_content2">After the continuous spread of Gomoku among the people,
+        it was later introduced to Japan.In 1899, after Japan improved the rules of traditional Gomoku,
+        it began to develop.</string>
+    <string name="history_gomoku_content3">At the beginning of the 20th century, traditional Gomoku was
+        introduced to Europe from Japan.</string>
+    <string name="history_gomoku_content4">In the 21st century, more and more countries around the world
+        began to hold Gomoku competitions.</string>
+</resources>
