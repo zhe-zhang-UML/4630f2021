@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="300dp"
+    android:layout_gravity="center"
+    android:background="@drawable/cerclebackground_mb">
+
+    <TextView
+        android:id="@+id/black_win"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Black Win"
+        android:textColor="#795548"
+        android:textStyle="bold"
+        android:textSize="52sp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="56dp"
+        android:layout_marginBottom="56dp"/>
+    <Button
+        android:id="@+id/black_ok_btn"
+        android:layout_width="130dp"
+        android:layout_height="85dp"
+        android:text="OK"
+        android:textSize="24sp"
+        android:textColor="#eceff1"
+        android:layout_below="@id/black_win"
+        android:layout_marginLeft="18dp"
+        android:backgroundTint="#8d6e63"/>
+    <Button
+        android:id="@+id/black_newgame_btn"
+        android:layout_width="130dp"
+        android:layout_height="85dp"
+        android:text="New Game"
+        android:textSize="24sp"
+        android:textColor="#eceff1"
+        android:layout_below="@id/black_win"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="18dp"
+        android:backgroundTint="#8d6e63"/>
+
+
+</RelativeLayout>

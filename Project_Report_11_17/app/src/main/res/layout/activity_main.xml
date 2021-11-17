@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/relativelayout_main_page"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gomoku_background2">
+
+    <TextView
+        android:id="@+id/gomoku"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        android:fontFamily="@font/baumans"
+        android:text="@string/project_title"
+        android:textColor="#4e342e"
+        android:textSize="52sp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@id/gomoku">
+
+        <Button
+            android:id="@+id/play_btn"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="48dp"
+            android:backgroundTint="#ffb74d"
+            android:fontFamily="@font/bungee"
+            android:text="@string/play_btn_text"
+            android:textColor="#795548"
+            android:textSize="24sp" />
+        <Button
+            android:id="@+id/rule_btn"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:text="@string/rule_btn_text"
+            android:fontFamily="@font/bungee"
+            android:textSize="24sp"
+            android:textColor="#795548"
+            android:backgroundTint="#ffb74d"
+            android:layout_gravity="center"
+            android:layout_marginTop="36dp"/>
+        <Button
+            android:id="@+id/setting_btn"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:text="@string/setting_btn_text"
+            android:fontFamily="@font/bungee"
+            android:textSize="24sp"
+            android:textColor="#795548"
+            android:backgroundTint="#ffb74d"
+            android:layout_gravity="center"
+            android:layout_marginTop="36dp"/>
+        <Button
+            android:id="@+id/about_btn"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:text="@string/about_btn_text"
+            android:fontFamily="@font/bungee"
+            android:textSize="24sp"
+            android:textColor="#795548"
+            android:backgroundTint="#ffb74d"
+            android:layout_gravity="center"
+            android:layout_marginTop="36dp"/>
+    </LinearLayout>
+</RelativeLayout>
