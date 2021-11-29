@@ -1,0 +1,12 @@
+
+Name:  Wenhui Liu
+Email: Wenhui_Liu@student.uml.edu
+
+
+
+
+
+Term Paper title:       Gomoku Game
+
+Group member:        Wenhui Liu, Zhe Zhang
+Group member email:  Wenhui_Liu@student.uml.edu    Zhe_Zhang@student.uml.edu 
