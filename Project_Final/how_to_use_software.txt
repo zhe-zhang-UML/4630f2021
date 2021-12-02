@@ -1,0 +1,24 @@
+When user launch the project, user should see the homepages with four sub menus and antique picture.
+The four sub menus are: Play, Rules, Setting and About. 
+
+1. The Play menu is the main part of the Gomoku Game.
+When user open the Play menu, there is a chess board in the center. It formed with 15 x 15 lines 
+and totally 225 intersections. User can place their white or black pieces on the chess borad. 
+The user who first forms a five-point line will win the game, and the line can be horizontal, 
+vertical or diagonal. It also has undo functions, back function and reset function. 
+User can undo different pieces by clicking white undo or black undo. User can go back to the homepage
+by clicking back. User can reset all the pieces on the chess board to empty by clicking reset. 
+There are two functions on the right top, which are back to homepage and start new game.
+
+2. The Rules menu is about to introduce the basic game rule to user so that user can
+totally understand the game and enjoy the game. There are five functions on the right top, 
+which are back to homepage, play game, game rules, setting function and about information.
+
+3. The Setting menu is about to set the backgroud music. 
+User can open the backgroud music when playing the game. Also, user can close the backgroud music 
+in this Setting menu. There are five functions on the right top, which are back to homepage, 
+play game, game rules, setting function and about information.
+
+4. The About menu is about to introduce the group members of the project and history of the Gomoku Game.
+There are five functions on the right top, which are back to homepage, play game, game rules, 
+setting function and about information.

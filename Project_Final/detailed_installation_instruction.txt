@@ -1,0 +1,7 @@
+The step to install and run our project is easy. Since it is a complete software, it can install directly 
+on any Android devices  by using its own APK file. Another way is that to download the source files 
+from the project GitHub page. Load the source files which are from GitHub to Android Studio on computer. 
+After loading it, then we can run it inside the Android Studio by using the virtual machine. 
+It will runs perfectly as it is on the phone. Or, we can also connect our phone by using USB cable to computer, 
+then open Android Studio and run it on the phone. Once it installed correctly, user can open the app. 
+When user first see the homepage with four sub menus and antique pictures, it is ready to play. 

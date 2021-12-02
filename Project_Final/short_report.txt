@@ -1,0 +1,8 @@
+Our project is called Gomoku Game and it is going to solve the problem of people's mental health. 
+Its goal is to provide people with more ways to entertain themselves and to enhance the friendship 
+and communication between people. The reason why I choose to do the Gomoku Game from other types of 
+entertainment software is that my team member and I both come from China, and at the same time 
+the Gomoku game is also originated from China. Making this app is about to develop and 
+expand our traditional culture and let people like it. Compared with other entertainment software, 
+the Gomoku Game is easy to learn and play, it do not have so many rules to remember. 
+Also, the Gomoku Game can enhance people's thinking ability and improve intelligence.
